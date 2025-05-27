@@ -30,11 +30,11 @@ This repository contains both the Spring Boot backend and the React frontend.
 
 ## ⚙️ Technology Stack
 
-* **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, MySQL/PostgreSQL
+* **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, MySQL
 * **Frontend:** React, React Router, Tailwind CSS, Framer Motion
 * **Authentication:** Spring Security (BCrypt password hashing)
 * **Email Notifications:** JavaMailSender
-* **Build & Run:** Maven, npm/yarn
+* **Build & Run:** Maven, npm
 
 ---
 
@@ -42,8 +42,8 @@ This repository contains both the Spring Boot backend and the React frontend.
 
 1. **Java 17+** (JDK)
 2. **Maven 3.6+**
-3. **Node.js 14+** & **npm** or **yarn**
-4. **MySQL** or **PostgreSQL** database
+3. **Node.js 14+** & **npm** 
+4. **MySQL**  database
 
 ---
 
